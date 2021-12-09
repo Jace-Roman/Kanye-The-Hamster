@@ -1,0 +1,34 @@
+div {
+    border: 1px solid black;   
+}
+h2 {
+    border: solid 4px;
+    background-color:#BD7F0D;}
+body{
+background-color:green;
+}
+img {
+    width: 200px;   
+    border: solid 10px;
+}
+h1{
+   border: solid 6px; 
+    padding: 5px;
+    background-color:#BD7F0D;
+    font-family: 'Fuzzy Bubbles', cursive;} 
+.post {
+text-align:center;}   
+.aboutMe{
+text-align:center;
+}
+.friendsList{
+ text-align:center;
+    
+       
+}
+    .kayne {
+    display:flex;
+    justify-content: center;}
+.navBar {
+    display:flex;
+    justify-content: space-around;}
